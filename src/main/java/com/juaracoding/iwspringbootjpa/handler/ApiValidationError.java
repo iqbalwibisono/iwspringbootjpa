@@ -1,4 +1,4 @@
-package edu.paul._01springbootrestapi.handler;
+package com.juaracoding.iwspringbootjpa.handler;
 
 import lombok.Data;
 

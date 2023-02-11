@@ -1,4 +1,4 @@
-package edu.paul._01springbootrestapi.utils;
+package com.juaracoding.iwspringbootjpa.utils;
 
 
 import org.springframework.web.multipart.MultipartFile;

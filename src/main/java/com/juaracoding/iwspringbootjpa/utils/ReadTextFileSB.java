@@ -1,6 +1,6 @@
-package edu.paul._01springbootrestapi.utils;
+package com.juaracoding.iwspringbootjpa.utils;
 
-import edu.paul._01springbootrestapi.handler.ResourceNotFoundException;
+import com.juaracoding.iwspringbootjpa.handler.ResourceNotFoundException;
 import org.springframework.util.FileCopyUtils;
 import org.springframework.util.ResourceUtils;
 

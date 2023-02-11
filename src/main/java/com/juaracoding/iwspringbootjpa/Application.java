@@ -1,4 +1,4 @@
-package edu.paul._01springbootrestapi;
+package com.juaracoding.iwspringbootjpa;
 
 
 import org.springframework.boot.SpringApplication;

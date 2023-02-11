@@ -1,7 +1,7 @@
-package edu.paul._01springbootrestapi.handler;
+package com.juaracoding.iwspringbootjpa.handler;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import edu.paul._01springbootrestapi.utils.ConstantMessage;
+import com.juaracoding.iwspringbootjpa.utils.ConstantMessage;
 import lombok.Data;
 import org.springframework.http.HttpStatus;
 

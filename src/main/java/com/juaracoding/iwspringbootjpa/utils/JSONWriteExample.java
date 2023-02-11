@@ -1,4 +1,4 @@
-package edu.paul._01springbootrestapi.utils;
+package com.juaracoding.iwspringbootjpa.utils;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
@@ -7,7 +7,6 @@ import java.util.Map;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
-import org.springframework.util.ResourceUtils;
 
 /*
 POM JSON SIMPLE

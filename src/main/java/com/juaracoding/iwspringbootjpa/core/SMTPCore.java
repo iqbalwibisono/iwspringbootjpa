@@ -1,7 +1,7 @@
-package edu.paul._01springbootrestapi.core;
+package com.juaracoding.iwspringbootjpa.core;
 
-import edu.paul._01springbootrestapi.configuration.ConfigProperties;
-import edu.paul._01springbootrestapi.handler.ResourceNotFoundException;
+import com.juaracoding.iwspringbootjpa.configuration.ConfigProperties;
+import com.juaracoding.iwspringbootjpa.handler.ResourceNotFoundException;
 
 import javax.mail.*;
 import javax.mail.internet.InternetAddress;

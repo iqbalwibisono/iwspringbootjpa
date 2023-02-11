@@ -1,4 +1,4 @@
-package edu.paul._01springbootrestapi.handler;
+package com.juaracoding.iwspringbootjpa.handler;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

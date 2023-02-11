@@ -1,4 +1,4 @@
-package edu.paul._01springbootrestapi.configuration;
+package com.juaracoding.iwspringbootjpa.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
